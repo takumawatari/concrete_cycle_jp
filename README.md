@@ -3,4 +3,4 @@ System model and dataset exploring strategies to achieve net-zero emissions acro
 
 This repository accompanies the journal publication:
 
-Efficient use of cement and concrete to reduce reliance on supply-side technologies for net-zero emissions, Journal name, DOI
+Author name (Year) Efficient use of cement and concrete to reduce reliance on supply-side technologies for net-zero emissions, Journal name, DOI
