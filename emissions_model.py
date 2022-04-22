@@ -183,7 +183,7 @@ def emissions_calculate(
                 'CO2_mine_lime', 'CO2_mine_red',\
                 'CO2_storage_timber']
 
-    # data export
+    # export data
     pd.DataFrame(CO2_emissions).to_excel(filepath + '/CO2_emissions_' + str(scenario_index) + '.xlsx')
     pd.DataFrame(CO2_emissions_list).to_excel(filepath + '/CO2_emissions_list_' + str(scenario_index) + '.xlsx')
     pd.DataFrame(CO2_storage).to_excel(filepath + '/CO2_storage_' + str(scenario_index) + '.xlsx')
