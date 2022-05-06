@@ -1,6 +1,6 @@
 # concrete_cycle_jp
-System model and dataset exploring strategies to achieve net-zero emissions across the cement and concrete cycle
+This repository contains system models and datasets exploring strategies to achieve net-zero emissions across the cement and concrete cycle.
 
-This repository accompanies the journal publication:
+The details and results of this model are published as the following journal article:
 
 Author name (Year) Efficient use of cement and concrete to reduce reliance on supply-side technologies for net-zero emissions, Journal name, DOI
