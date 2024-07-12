@@ -1,5 +1,5 @@
 # IMAGINE-Concretre-Japan
-This repository contains system models and datasets to explore strategies to achieve net-zero emissions across the cement and concrete cycle.
+This repository contains system models and datasets to explore strategies for achieving net-zero emissions across the cement and concrete cycle.
 
 The details and results of this model are published as the following journal article:
 
